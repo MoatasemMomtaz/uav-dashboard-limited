@@ -1,0 +1,50 @@
+Country,Producer,System Designation ,OperationalRole,SizeClass,Mission,EngineType,LaunchMethod,AnchorEndurance_h,AnchorPayload_kg,AnchorPayloadEnduranceProduct_kgh,MTOW_kg,MaxPayload_kg,Range_km,Wingspan_m,Length_m
+Algeria,Centre de Recherche en Technologies Industrielles (CRTI ),Algeria 55,M,09-MALE,UCAV,P,CTOL,20.0,60.0,1200.0,1600.0,380.0,260.0,12.0,8.9
+China (PR ),AVIC -Chengdu Aircraft Design &Research Institute (CADI ),Wing Loong I,M,09-MALE,ISR,p,CTOL,20.0,60.0,1200.0,1200.0,60.0,200.0,14.0,9.0
+China (PR ),AVIC -Chengdu Aircraft Design &Research Institute (CADI ),Wing Loong I UCAV,M,09-MALE,UCAV,p,CTOL,8.0,160.0,1280.0,1200.0,160.0,200.0,14.0,9.0
+China (PR ),AVIC -Chengdu Aircraft Design &Research Institute (CADI ),Wing Loong II,M,09-MALE,UCAV,Turboprop,CTOL,20.0,580.0,11600.0,4200.0,580.0,200.0,20.5,11.0
+China (PR ),CASC -CAAA (see above ),CH -3B/Rainbow -3,M,11-UCAV,UCAV,p,CTOL,6.0,180.0,1080.0,650.0,180.0,200.0,8.0,5.2
+China (PR ),CASC -CAAA (see above ),CH -3 A,M,05-MR,ISR,p,CTOL,12.0,60.0,720.0,650.0,60.0,200.0,8.0,5.2
+China (PR ),CASC -CAAA (see above ),CH -4 ISR,M,09-MALE,ISR,p,CTOL,23.0,70.0,1610.0,1400.0,70.0,250.0,18.0,8.5
+China (PR ),CASC -CAAA (see above ),CH -4 UCAV,M,09-MALE,UCAV,p,CTOL,10.0,270.0,2700.0,1400.0,270.0,250.0,18.0,8.5
+China (PR ),CASC -CAAA (see above ),CH -5/Rainbow -5B UCAV,M,09-MALE,UCAV,p,CTOL,20.0,450.0,9000.0,2400.0,450.0,250.0,,
+China (PR ),CASC -CAAA (see above ),CH -5/Rainbow -5A ISR,M,09-MALE,ISR,p,CTOL,30.0,115.0,3450.0,2250.0,115.0,250.0,,
+China (PR ),CASC -CAAA (see above ),CH-5W UCAV,M,09-MALE,UCAV,Turboprop,CTOL,24.0,400.0,9600.0,5000.0,780.0,250.0,24.8,11.89
+China (PR ),CASC -CAAA (see above ),CH-5W ISR,M,09-MALE,ISR,Turboprop,CTOL,30.0,70.0,2100.0,5000.0,780.0,250.0,24.8,11.89
+China (PR ),CASIC (China Aerospace Science and Industry Corporation ),WJ -600 A,M,11-UCAV,ISR,turbojet,booster,2.5,130.0,325.0,1100.0,130.0,,5.8,6.5
+China (PR ),CASIC (China Aerospace Science and Industry Corporation ),WJ -600 D,M,11-UCAV,ISR,turbofan,booster,3.5,130.0,455.0,1100.0,130.0,2100.0,5.8,6.5
+China (PR ),CASIC (China Aerospace Science and Industry Corporation ),WJ -700B,M,11-UCAV,UCAV,turbofan,CTOL,8.0,480.0,3840.0,3500.0,480.0,3500.0,22.0,10.5
+China (PR ),Shenzhen Koweitai Enterprise Development,KWT -GM -360-E,DP,03-CR,ISR,e,vtol,2.5,1.0,2.5,27.0,5.0,40.0,3.6,2.3
+China (PR ),Shenzhen Koweitai Enterprise Development,KWT -GM -360-H,DP,04-SR,ISR,h,vtol,5.0,1.0,5.0,27.0,5.0,40.0,3.6,2.3
+France,Safran Electronics & Defense,Patroller,DP,06-MRE,ISR,p,CTOL,20.0,100.0,2000.0,1000.0,100.0,200.0,18.0,8.5
+France,Safran Electronics & Defense,Patroller ucav,M,06-MRE,UCAV,p,CTOL,15.0,250.0,3750.0,1000.0,250.0,200.0,18.0,8.5
+France,Airbus,Eurodrone,M,09-MALE,UCAV,Turboprop,CTOL,30.0,2300.0,69000.0,11000.0,2300.0,,26.0,16.0
+France,Fly -R (Aero Composites Innovations),R-600,M,05-MR,UCAV,h,CTOL,25.0,450.0,11250.0,1600.0,600.0,,6.1,5.9
+Hong Kong,Aeroland UAV,AL-04,DP,02-Mini,ISR,e,hand,1.0,1.0,1.0,4.2,1.0,25.0,2.0,1.4
+Hong Kong,Aeroland UAV,AL-20,DP,02-Mini,ISR,p,CTOL,20.0,1.5,30.0,20.0,1.5,100.0,4.0,0.7
+Hong Kong,Aeroland UAV,AL-150,DP,03-CR,ISR,p,CTOL,16.0,10.0,160.0,150.0,40.0,100.0,8.0,3.5
+Indonesia,BPPT (Agency for the Assessment and Application of Technology ),"BPPT 01A""Wulung """,M,04-SR,ISR,p,CTOL,6.0,3.0,18.0,125.0,35.0,130.0,6.34,4.42
+Iran,Shahed Aviation Industries Research Center,Shahed-136,M,05-MR,LM,p,booster,10.0,40.0,400.0,200.0,40.0,2000.0,2.5,3.5
+Iran,,Sammad-2,M,,LM,p,luncher,5.0,18.0,90.0,90.0,18.0,1000.0,4.5,2.8
+Iran,,Sammad-3,M,,LM,p,Skid launch,5.0,40.0,200.0,120.0,40.0,1600.0,5.0,3.0
+Italy,Leonardo,Falco,M,05-MR,ISR,p,CTOL,14.0,85.0,1190.0,520.0,85.0,200.0,7.2,5.25
+Italy,Leonardo,Falco EVO,M,06-MRE,ISR,p,CTOL,20.0,100.0,2000.0,650.0,100.0,200.0,12.5,6.2
+Latvia,"UAV Factory (acquired by AE Industrial Partners ,USA ,in 2021)",Penguin B,DP,06-MRE,ISR,p,p catapult,20.0,4.0,80.0,21.5,10.0,,3.3,2.27
+Latvia,"UAV Factory (acquired by AE Industrial Partners ,USA ,in 2021)",Penguin BE,DP,02-Mini,ISR,e,p catapult,1.833,2.8,5.1324,21.5,6.6,,3.3,2.27
+Latvia,"UAV Factory (acquired by AE Industrial Partners ,USA ,in 2021)",Penguin C Mk2,DP,06-MRE,ISR,p,p catapult,25.5,1.27,32.385,28.0,4.0,120.0,3.3,
+Netherlands,Vertical Technologies,DeltaQuad EVO Tactical,ML,02-Mini,ISR,e,VTOL,4.0,1.0,4.0,10.0,3.0,245.0,2.69,0.75
+Pakistan,Global Industrial &Defence Solutions,Shahpar II,M,05-MR,UCAV,p,CTOL,12.0,195.0,2340.0,1125.0,195.0,1500.0,9.45,8.0
+Pakistan,Global Industrial &Defence Solutions,Shahpar II,M,05-MR,ISR,p,CTOL,20.0,75.0,1500.0,1125.0,75.0,1500.0,9.45,8.0
+Pakistan,Global Industrial &Defence Solutions,Shahpar III,M,05-MR,ISR,p,CTOL,30.0,125.0,3750.0,1600.0,125.0,2500.0,19.5,
+Pakistan,Global Industrial &Defence Solutions,Shahpar III,M,05-MR,UCAV,p,CTOL,16.0,200.0,3200.0,1600.0,200.0,2500.0,19.5,
+Poland,MSP,Neo3,DP,02-Mini,ISR,e,catapult,0.5,3.0,1.5,15.0,6.0,10.0,3.765,2.375
+Portugal,Portuguese Air Force Academy,Antex -M X03,RA,06-MRE,ISR,p,CTOL,0.3,30.0,9.0,100.0,30.0,,6.0,
+Portugal,Portuguese Air Force Academy,Antex -M X03,RA,06-MRE,ISR,p,CTOL,0.8,4.0,3.2,10.0,4.0,,2.4,
+Turkey,Baykar,Bayraktar TB2,M,06-MRE,UCAV,p,CTOL,27.0,70.0,1890.0,650.0,150.0,150.0,12.0,6.5
+UAE,EDGE Adasi,QX4,M,03-CR,ISR,h,vtol,13.0,5.0,65.0,42.0,7.0,150.0,3.3,2.8
+UAE,EDGE PHANTOMLABS,PHANTOMHAWK,M,03-CR,ISR,h,VTOL,12.0,3.5,42.0,32.0,7.0,150.0,4.0,
+USA,Insitu (acquired by Boeing in 2008),ScanEagle,DP,08-LALE,ISR,p,luncher,24.0,3.4,81.6,20.0,3.4,100.0,3.1,1.55
+USA,Insitu (acquired by Boeing in 2008),ScanEagle HFE eo or ir,DP,08-LALE,ISR,p,luncher,23.0,3.4,78.2,22.0,3.4,100.0,3.1,1.55
+USA,Insitu (acquired by Boeing in 2008),ScanEagle HFE mwir nighteagle,DP,08-LALE,ISR,p,luncher,20.0,3.4,68.0,22.0,3.4,100.0,3.1,1.7
+USA,Northrop Grumman,X -47B UCAS -D,M,11-UCAV,UCAV,turbofan,CTOL,,2041.0,0.0,20215.0,2041.0,3900.0,18.92,11.63
+USA,Zipline,"Zipline 1, Sparrow",CC,04-SR,cargo,e,luncher,,1.75,0.0,21.0,1.75,380.0,3.3,2.18

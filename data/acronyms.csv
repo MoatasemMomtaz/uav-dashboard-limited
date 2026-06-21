@@ -1,0 +1,135 @@
+code,expansion,category,notes
+CR,Close Range,SizeClass,range/endurance class
+SR,Short Range,SizeClass,range/endurance class
+MR,Medium Range,SizeClass,range/endurance class
+MRE,Medium Range Endurance,SizeClass,range/endurance class
+LADP,Low Altitude Deep Penetration,SizeClass,altitude/range class
+LALE,Low Altitude Long Endurance,SizeClass,altitude/range class
+MALE,Medium Altitude Long Endurance,SizeClass,altitude/range class
+HALE,High Altitude Long Endurance,SizeClass,altitude/range class
+UCAV,Unmanned Combat Aerial Vehicle,SizeClass,combat
+STRA,Stratospheric,SizeClass,altitude class
+EXO,Exo-stratospheric,SizeClass,altitude class
+Micro,Micro UAV,SizeClass,size class
+Mini,Mini UAV,SizeClass,size class
+Nano,Nano UAV,SizeClass,size class
+PT,Personal Transport (also cargo-capable),SizeClass,transport
+Other,Other / unclassified,SizeClass,catch-all
+M,Military,OperationalRole,role
+NM,Not Motorised,OperationalRole,role
+OFF,Offensive,OperationalRole,role
+CC,Civil/Commercial,OperationalRole,role
+DP,Dual Purpose - civil/military,OperationalRole,role
+DV,Developmental Vehicle,OperationalRole,role
+RV,Research Vehicle,OperationalRole,role
+OPA,Optionally Piloted Aircraft,OperationalRole,role
+RA,Research/Academic,OperationalRole,role (assumed)
+ML,Multi-role,OperationalRole,role (assumed)
+ISR,"Intelligence, Surveillance, Reconnaissance",Mission,mission
+UCAV,Unmanned Combat Aerial Vehicle,Mission,mission
+LM,Loitering Munition,Mission,mission
+Target,Aerial Target,Mission,mission
+cargo,Cargo / Logistics,Mission,mission
+Passengers,Passenger Transport,Mission,mission
+RD,Research/Demonstrator,Mission,mission
+CUAV,Combat UAV (variant),Mission,mission
+tanker,Aerial Refuelling Tanker,Mission,mission
+B/C,Bacteriological & Chemical Sensing,Mission,mission
+Ex,Expendable,Mission,mission
+EW,Electronic Warfare,Mission,mission
+Prf,Parafoil,Mission,mission
+FW,Fixed Wing,Airframe,airframe
+RW,Rotary Wing,Airframe,airframe
+TR,Tilt Rotor,Airframe,airframe
+TW,Tilt Wing,Airframe,airframe
+TS,Tail-sitter,Airframe,airframe
+TB,Tilt Body,Airframe,airframe
+FW/RW,Fixed Wing + Rotary Wing (VTOL hybrid),Airframe,hybrid airframe
+FW/TR,Fixed Wing + Tilt Rotor (VTOL hybrid),Airframe,hybrid airframe
+CRW,Canard Rotary Wing,Airframe,airframe
+SRW,Shrouded Rotary Wing,Airframe,airframe
+UCAR,Unmanned Combat Aerial Rotorcraft,Airframe,airframe
+FLW,Flapping Wing,Airframe,airframe
+LtA,Lighter than Air,Airframe,airframe
+P,Piston,EngineType,engine
+E,Electric,EngineType,engine
+H,"Hybrid (piston + electric, typical VTOL)",EngineType,engine
+FC,Fuel Cell,EngineType,engine
+S,Solar,EngineType,engine
+Turbojet,Turbojet,EngineType,engine
+Turbofan,Turbofan,EngineType,engine
+Turboprop,Turboprop,EngineType,engine
+DF,Ducted Fan,EngineType,"engine (corrected from ""(assumed)"")"
+G,Glider / Powerless,EngineType,"engine (corrected from ""Gasoline"" guess)"
+CTOL,Conventional Take-Off and Landing (runway),LaunchMethod,launch
+VTOL,Vertical Take-Off and Landing,LaunchMethod,launch
+VSTOL,Very Short Take-Off and Landing,LaunchMethod,launch
+WaterTOL,Water Take-Off and Landing,LaunchMethod,launch
+Catapult,Catapult or Pneumatic launcher (merged),LaunchMethod,launch
+RATO,Rocket-Assisted Take-Off (incl. booster),LaunchMethod,launch
+Hand,Hand-launched,LaunchMethod,launch
+Tube,Tube / Canister launched,LaunchMethod,launch
+Rail,Rail launched,LaunchMethod,launch
+AirLaunched,Air-launched from carrier aircraft,LaunchMethod,launch
+CartAssisted,Cart-assisted take-off,LaunchMethod,launch
+Skid,Skid-launched,LaunchMethod,launch
+C,Conventional tail,TailConfig,tail
+V,V-tail,TailConfig,tail
+Y,Y-tail,TailConfig,tail
+T,T-tail,TailConfig,tail
+boom,"Boom tail (twin boom, no stabiliser)",TailConfig,tail
+winglets,"Winglets, no tail",TailConfig,tail
+tail-less,No empennage (typical flying-wing),TailConfig,tail
+inv-V,Inverted V-tail,TailConfig,tail
+inv-Y,Inverted Y-tail,TailConfig,tail
+cruciform,Cruciform tail,TailConfig,tail
+dual-tail,Dual vertical tail,TailConfig,tail
+triple-tail,Triple vertical tail,TailConfig,tail
+H-boom,H-boom tail (twin boom + horizontal),TailConfig,tail
+tailsitter,Tail-sitter,TailConfig,tail
+R,Rectangular,WingForm,wing planform
+T,Tapered,WingForm,wing planform
+e,Elliptical,WingForm,wing planform
+d,Delta,WingForm,wing planform
+swept,Swept,WingForm,wing planform
+swept-fwd,Swept forward,WingForm,wing planform
+Polyhedral,Polyhedral,WingForm,wing planform
+boxW,Box wing,WingForm,wing planform
+H,High wing,WingConfig,wing position
+L,Low wing,WingConfig,wing position
+M,Mid wing,WingConfig,wing position
+TW,Tandem wing,WingConfig,wing position
+canard,Canard,WingConfig,wing position
+cruciform,Cruciform wing,WingConfig,wing position
+Joined-wing,Joined wing,WingConfig,wing position
+parasol,Parasol,WingConfig,wing position
+biplane,Biplane,WingConfig,wing position
+Gull,Gull wing,WingConfig,wing position
+WT,Conventional wing-tube fuselage,BodyConfig,fuselage
+Tboom,Tandem-boom fuselage,BodyConfig,fuselage
+FW,Flying-wing / blended-wing fuselage,BodyConfig,fuselage
+BW,Blended wing,BodyConfig,fuselage
+boxW,Box-wing body,BodyConfig,fuselage
+dual-boom,Dual boom (alt of Tboom),BodyConfig,fuselage
+i,Proof-of-concept / demonstrator,Status,status symbol
+▲,In inventory and/or in service,Status,status symbol
+o,Ordered / entering service,Status,status symbol
+♦,Ordered as test/demo system,Status,status symbol
+•,Development continuing,Status,status symbol
+t,No longer in production/development,Status,status symbol
+■,Developed & market ready,Status,status symbol
+Nano/Micro,Nano / Micro UAV (<2 kg),SizeClassStd,derived from MTOW
+Mini,Mini UAV (2–20 kg),SizeClassStd,derived from MTOW
+Small,Small UAV (20–150 kg),SizeClassStd,derived from MTOW
+Tactical,Tactical UAV (150–600 kg),SizeClassStd,derived from MTOW
+MALE,Medium-Altitude Long-Endurance (600–1500 kg),SizeClassStd,"derived from MTOW: MALE 600-1999 kg, HALE 2000+ kg. WARNING: source-data classification often uses altitude+mission rather than mass alone, so this derivation may disagree (e.g. MQ-9 Reaper is ""MALE"" in source data despite 4,760 kg MTOW; solar HAPS like Zephyr are ""HALE"" despite low mass)."
+HALE,High-Altitude Long-Endurance (1500+ kg),SizeClassStd,"derived from MTOW: MALE 600-1999 kg, HALE 2000+ kg. WARNING: source-data classification often uses altitude+mission rather than mass alone, so this derivation may disagree (e.g. MQ-9 Reaper is ""MALE"" in source data despite 4,760 kg MTOW; solar HAPS like Zephyr are ""HALE"" despite low mass)."
+DerivedRange_km,Derived range = CruiseSpeed × Endurance (km),Derived,Computed from cruise speed × endurance
+BestRange_km,Best-estimate operational range (km),Derived,"Uses ActualRange when available, else picks between Range_km and DerivedRange_km based on the RangeKind heuristic"
+actual,Range from ActualRange_km column (publisher-stated),RangeKind,
+agrees,Range_km matches DerivedRange_km within ±30%,RangeKind,
+datalink_likely,"Range_km << DerivedRange_km — Range_km likely a data-link radius, not ferry range",RangeKind,
+mismatched,Range_km and DerivedRange_km disagree but Range_km is not clearly a data-link figure,RangeKind,
+range_only,Only Range_km available (no cruise speed × endurance to verify),RangeKind,
+derived_only,Only cruise × endurance available; no published Range_km,RangeKind,
+none,No range information available,RangeKind,

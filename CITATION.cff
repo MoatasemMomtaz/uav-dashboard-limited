@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+title: "Fixed-wing UAV Explorer (Limited Edition)"
+message: "If you use this software, dataset, or derived results, please cite as below."
+type: software
+authors:
+  - family-names: "Momtaz"
+    given-names: "Moatasem B"
+    email: "mbmomtaz@gmail.com"
+    affiliation: ""
+version: "1.0.0-limited"
+date-released: "2026-06-19"
+license: AGPL-3.0
+license-url: "https://www.gnu.org/licenses/agpl-3.0.en.html"
+repository-code: "https://github.com/MoatasemMomtaz/uav-dashboard-limited"
+url: "https://github.com/MoatasemMomtaz/uav-dashboard-limited"
+abstract: >
+  An interactive Streamlit-based dashboard for exploring and comparing
+  fixed-wing unmanned aerial vehicle (UAV) characteristics across mass,
+  geometry, performance, and mission attributes. The limited public
+  edition includes three analytical tabs (Dataset Overview, Compare Two
+  Filters, Design-Space Explorer) and a stratified-sample subset
+  (~710 rows) of a larger curated UAV database. Includes power-law
+  sizing relations, literature-fit overlays, prediction bands, and
+  multi-axis design-space exploration tools.
+keywords:
+  - uav
+  - drone
+  - aerospace
+  - sizing
+  - design-space
+  - fixed-wing
+  - streamlit
+  - tradespace
+preferred-citation:
+  type: software
+  title: "Fixed-wing UAV Explorer (Limited Edition)"
+  authors:
+    - family-names: "Momtaz"
+      given-names: "Moatasem B"
+  version: "1.0.0-limited"
+  year: 2026
+  url: "https://github.com/MoatasemMomtaz/uav-dashboard-limited"
