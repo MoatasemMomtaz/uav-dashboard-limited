@@ -90,7 +90,7 @@ For inquiries about the full version (more rows, more tabs, additional features)
 
 ## Acknowledgments
 
-Built with [Streamlit](https://streamlit.io/), [Plotly](https://plotly.com/python/), [Pandas](https://pandas.pydata.org/), and [scikit-learn](https://scikit-learn.org/). The dataset draws on published sources including the work of J. L. Palmer (DSTO-TR-2952), Verstraete/Palmer/Hornung (2017), Gundlach (2012), and others — see references in `CITATION.cff`.
+Built with [Streamlit](https://streamlit.io/), [Plotly](https://plotly.com/python/), [Pandas](https://pandas.pydata.org/), and [scikit-learn](https://scikit-learn.org/). The dataset draws on published sources fit including the work of J. L. Palmer (DSTO-TR-2952), Verstraete/Palmer/Hornung (2017), Gundlach (2012), and others — see references in `CITATION.cff`.
 
 ---
 
